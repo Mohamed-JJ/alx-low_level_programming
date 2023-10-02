@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _strchr - prints found c
@@ -21,3 +21,4 @@ char *_strchr(char *s, char c)
 	}
 	return (0);
 }
+

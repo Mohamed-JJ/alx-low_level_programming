@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _strncpy - two words
@@ -23,3 +23,4 @@ char *_strncpy(char *dest, char *src, int n)
 	}
 	return (dest);
 }
+

@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _memcpy - irontnoux2
@@ -18,3 +18,4 @@ char *_memcpy(char *dest, char *src, unsigned int n)
 	}
 	return (dest);
 }
+

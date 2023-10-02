@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _isupper - check the code for Holberton School students.
@@ -14,3 +14,4 @@ int _isupper(int c)
 
 	return (c >= 65 && c <= 90);
 }
+

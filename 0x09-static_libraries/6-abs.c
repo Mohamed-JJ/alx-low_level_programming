@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _abs - check the code for Holberton School students.
@@ -16,3 +16,4 @@ int _abs(int n)
 	}
 	return (-n);
 }
+
